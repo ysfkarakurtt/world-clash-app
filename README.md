@@ -95,5 +95,6 @@ npx expo start
   <img src="https://github.com/user-attachments/assets/8f6cd0d7-d68c-437a-8b4c-11f97eaced97" width="300" alt="IMG_6422" />
 </p>
 
+
 ---
 
