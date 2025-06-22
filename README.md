@@ -7,26 +7,6 @@
 
 ---
 
-##  Game Screenshots
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b4b7288e-ab97-447f-89c6-be06dfff00ec" width="300" alt="IMG_6454" />
-  <img src="https://github.com/user-attachments/assets/b9cddab7-7b7b-48c8-8103-e56299816588" width="300" alt="IMG_6453" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a95af12d-6969-4e13-a718-b07deeb52a10" width="300" alt="IMG_6450" />
-  <img src="https://github.com/user-attachments/assets/e9a43fe7-daa2-412e-b502-d70c71bb6610" width="300" alt="IMG_6424" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5792ff7-b048-48e2-a0d4-5cdd8f91041f" width="300" alt="IMG_6423" />
-  <img src="https://github.com/user-attachments/assets/8f6cd0d7-d68c-437a-8b4c-11f97eaced97" width="300" alt="IMG_6422" />
-</p>
-
----
-
 ##  Game Features
 
 -  **Turn-based 2-player gameplay**
@@ -94,3 +74,26 @@
 3. Run the app:
 ```bash
 npx expo start
+```
+---
+
+##  Game Screenshots
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4b7288e-ab97-447f-89c6-be06dfff00ec" width="300" alt="IMG_6454" />
+  <img src="https://github.com/user-attachments/assets/b9cddab7-7b7b-48c8-8103-e56299816588" width="300" alt="IMG_6453" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a95af12d-6969-4e13-a718-b07deeb52a10" width="300" alt="IMG_6450" />
+  <img src="https://github.com/user-attachments/assets/e9a43fe7-daa2-412e-b502-d70c71bb6610" width="300" alt="IMG_6424" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5792ff7-b048-48e2-a0d4-5cdd8f91041f" width="300" alt="IMG_6423" />
+  <img src="https://github.com/user-attachments/assets/8f6cd0d7-d68c-437a-8b4c-11f97eaced97" width="300" alt="IMG_6422" />
+</p>
+
+---
+
