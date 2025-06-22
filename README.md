@@ -3,6 +3,7 @@
 
 ---
 
+
 **Word Clash App** is a real-time, turn-based multiplayer word game developed using **React Native** and **Firebase**. Inspired by classic word board games, players compete by forming valid words on a 15x15 board while avoiding hidden **mines** and earning rewards through strategic placements.
 
 ---
